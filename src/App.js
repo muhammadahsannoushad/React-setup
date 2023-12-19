@@ -21,6 +21,6 @@ function App() {
        <h2>Learn React with Ahsan</h2>
     </div>
   );
-}
+}  
 
 export default App;
