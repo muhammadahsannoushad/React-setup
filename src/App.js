@@ -1,5 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
+import About from './component/About';
+import Home from './component/Home';
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
       </header> */}
        <h2>Learn React with Ahsan</h2>
        <h3>What is is your name </h3>
+       <Home/>
+       <About/>
     </div>
   );
 }  
