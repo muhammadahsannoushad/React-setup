@@ -19,8 +19,13 @@ function App() {
         </a>
       </header> */}
        <h2>Learn React with Ahsan</h2>
+       <h1>My name is Ahsan</h1>
+       <h3>My name is Ahsan</h3>
+       <h4>My name is Ahsan</h4>
+       <h5>My name is Ahsan</h5>
+       
     </div>
-  );
+  ); 
 }  
 
-export default App;
+export default App;  
